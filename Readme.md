@@ -3,5 +3,8 @@ Wireless 2.4GHz temperature, humidity and atmospheric pressure sensor.
 
 ### Rendered board view
 
-![Top-Render](/assets/render-top.png)
-![Bottom-Render](/assets/render-bottom.png)
+<p float="left">
+  <img src="/assets/render-top.png" height="350" />
+  <img src="/assets/render-bottom.png" height="350" /> 
+</p>
+
