@@ -1,3 +1,14 @@
+### Board view
+With components 
+<p align="middle">
+  <img src="../assets/Top-view.JPG" height="350" />
+  <img src="../assets/Bottom-view.JPG" height="350" />
+</p> 
+Without components
+<p align="middle">
+  <img src="../assets/Top-view-without-components.JPG" height="350" />
+  <img src="../assets/Bottom-view-without-components.JPG" height="350" />
+</p> 
 ### Programming interface
 
 <p align="middle">
