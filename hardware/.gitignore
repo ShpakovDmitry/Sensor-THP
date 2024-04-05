@@ -1,0 +1,12 @@
+__Previews
+History
+*.PrjPcbStructure
+*.SchDocPreview
+*.PcbDocPreview
+*Project Logs*
+*Status Report*
+*.drc
+*.html
+*.htm
+*.lnk
+TODO
