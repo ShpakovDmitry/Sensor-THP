@@ -16,7 +16,7 @@
 </p>
 
 ### Layer stackup 
-Layer stackup could be find ![here](/fabrication/LayerStackUp-and-DrillTable/LayerStackup.PDF)
+Layer stackup could be find ![here](/hardware/fabrication/LayerStackUp-and-DrillTable/LayerStackup.PDF)
 
 ### Schematics
-Up to date version of schematics is ![here](/documentation/schematics.pdf)
+Up to date version of schematics is ![here](/hardware/documentation/schematics.pdf)
