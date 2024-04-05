@@ -14,3 +14,6 @@
   <img src="../assets/5-mid4-layer.JPG" height="350" />
   <img src="../assets/6-bottom-layer.JPG" height="350" />
 </p>
+
+### Layer stackup 
+Layer stackup could be find ![here](/fabrication/LayerStackUp-and-DrillTable/LayerStackup.PDF)
