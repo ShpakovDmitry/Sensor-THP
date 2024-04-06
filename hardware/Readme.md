@@ -20,6 +20,7 @@ Board is 6 layer stackup with the following layer purpose:
 <p align="middle">
   <img src="../assets/layer-purpose.JPG" height="350" />
 </p> 
+
 Detailed information about PCB layer stackup could be find
 ![here](/hardware/fabrication/LayerStackUp-and-DrillTable/LayerStackup.PDF)
 
