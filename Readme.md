@@ -1,7 +1,8 @@
-### Status
 <p align="right">
   <img height="25px" src="https://img.shields.io/badge/last update-06.04.2024-blue?style=flat" alt="last update">
 </p>
+
+### Status
 <p align="left">
   <img height="25px" src="https://img.shields.io/badge/hardware status-on review-blue?style=flat" alt="HW status">
   <img height="25px" src="https://img.shields.io/badge/active HW revision-Rev.1-blue?style=flat" alt="revision">
