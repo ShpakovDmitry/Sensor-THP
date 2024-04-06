@@ -22,7 +22,7 @@ Board is 6 layer stackup with the following layer purpose:
 </p> 
 
 Detailed information about PCB layer stackup could be find
-![here](/hardware/fabrication/LayerStackUp-and-DrillTable/LayerStackup.PDF)
+![here](/hardware/REV1/fabrication/LayerStackUp-and-DrillTable/LayerStackup.PDF)
 
 ### Layer view
 <p align="middle">
@@ -35,4 +35,4 @@ Detailed information about PCB layer stackup could be find
 </p>
 
 ### Schematics
-Up to date version of schematics is ![here](/hardware/documentation/schematics.pdf)
+Up to date version of schematics is ![here](/hardware/REV1/documentation/schematics.pdf)
