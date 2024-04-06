@@ -9,6 +9,7 @@
   <img height="25px" src="https://img.shields.io/badge/software status-not started-blue?style=flat" alt="SW status">
   <img height="25px" src="https://img.shields.io/badge/active SW version-0.0.0-blue?style=flat" alt="version">
 </p>
+
 ### Description
 Wireless 2.4GHz temperature, humidity and atmospheric pressure sensor.
 
