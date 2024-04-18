@@ -9,11 +9,10 @@
 #include "application.hpp"
 
 void Application::run(void) {
-  while(true) {
-    ;
-  }
+  target.init();
+  target.deInit();
+  target.halt();
 }
- 
 
 /*
 

@@ -8,11 +8,13 @@
 
 #pragma once
 
+#include <mcu/target.hpp>
+
 class Application {
 public:
   void run();
 private:
-
+  Target &target = Target::getInstance();
 }; 
 
 /*
