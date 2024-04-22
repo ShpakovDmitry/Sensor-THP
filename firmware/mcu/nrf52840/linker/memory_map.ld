@@ -3,7 +3,7 @@
  * @author: Dmitry Shpakov
  * @date: 2024/04/20
  * @licence: LGPL3 (see text at the end of a file)
- * @description: 
+ * @description: nrf5284 memory map
  */
 
 FLASH_SIZE = 1M
