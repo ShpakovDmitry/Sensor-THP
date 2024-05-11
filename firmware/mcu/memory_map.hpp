@@ -11,6 +11,8 @@
 
 #include <cstdint>
 
+using funcPtr = void (*)(void);
+
 extern uint32_t __bootrom_start__;
 extern uint32_t __bootrom_size__;
 extern uint32_t __approm_start__;
@@ -21,12 +23,12 @@ extern uint32_t __ram_start__;
 extern uint32_t __ram_size__;
 extern uint32_t __text_start__;
 extern uint32_t __text_end__;
-extern uint32_t __preinit_array_start__;
-extern uint32_t __preinit_array_end__;
-extern uint32_t __init_array_start__;
-extern uint32_t __init_array_end__;
-extern uint32_t __fini_array_start__;
-extern uint32_t __fini_array_end__;
+extern funcPtr __preinit_array_start__[];
+extern funcPtr __preinit_array_end__[];
+extern funcPtr __init_array_start__[];
+extern funcPtr __init_array_end__[];
+extern funcPtr __fini_array_start__[];
+extern funcPtr __fini_array_end__[];
 extern uint32_t __data_load__;
 extern uint32_t __data_start__;
 extern uint32_t __data_end__;
