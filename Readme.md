@@ -7,7 +7,7 @@
   <img height="25px" src="https://img.shields.io/badge/hardware status-on review-blue?style=flat" alt="HW status">
   <img height="25px" src="https://img.shields.io/badge/active HW revision-Rev.1-blue?style=flat" alt="revision">
   </br>
-  <img height="25px" src="https://img.shields.io/badge/software status-not started-blue?style=flat" alt="SW status">
+  <img height="25px" src="https://img.shields.io/badge/software status-started-blue?style=flat" alt="SW status">
   <img height="25px" src="https://img.shields.io/badge/active SW version-0.0.0-blue?style=flat" alt="version">
 </p>
 
@@ -25,3 +25,4 @@ Wireless 2.4GHz temperature, humidity and atmospheric pressure sensor.
 For hardware related information, like where is programming interface and its
 pinout, board layout, fabrication files, documentation and schematics, goto
 ![hardware](/hardware) directory.
+
